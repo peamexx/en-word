@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "gmarket l";
+  src: url("/src/fonts/GmarketSansTTFLight.ttf");
+}
+@font-face {
+  font-family: "gmarket m";
+  src: url("/src/fonts/GmarketSansTTFMedium.ttf");
+}
+@font-face {
+  font-family: "gmarket b";
+  src: url("/src/fonts/GmarketSansTTFBold.ttf");
+}
+@font-face {
+  font-family: "alkalami";
+  src: url("/src/fonts/Alkalami-Regular.ttf");
+}
+@font-face {
+  font-family: "notosans r";
+  src: url("/src/fonts/NotoSansKR-Regular.ttf");
+}
+@font-face {
+  font-family: "notosans m";
+  src: url("/src/fonts/NotoSansKR-Medium.ttf");
+}
+@font-face {
+  font-family: "notosans b";
+  src: url("/src/fonts/NotoSansKR-Bold.ttf");
+}/*# sourceMappingURL=font.css.map */
