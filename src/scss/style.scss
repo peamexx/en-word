@@ -3,9 +3,6 @@
 * {
   margin: 0;
   padding: 0;
-  vertical-align: middle !important;
-  line-height: normal !important;
-  font-family: "notosans r", "gmarket m" !important;
 }
 
 html,
@@ -13,6 +10,10 @@ body {
   width: 100%;
   height: 100%;
   overflow: hidden;
+}
+
+body {
+  font-family: "notosans r", "gmarket m";
 }
 
 button {
