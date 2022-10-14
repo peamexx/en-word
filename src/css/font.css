@@ -25,14 +25,16 @@
 }
 @font-face {
   font-family: "notosans-r";
-  src: url("../../src/fonts/NotoSansKR-Regular.ttf");
+  src: url("../../src/fonts/NotoSansKR-Regular.otf");
   unicode-range: U+AC00-D7A3;
 }
 @font-face {
   font-family: "notosans-m";
-  src: url("../../src/fonts/NotoSansKR-Medium.ttf");
+  src: url("../../src/fonts/NotoSansKR-Medium.otf");
+  unicode-range: U+AC00-D7A3;
 }
 @font-face {
   font-family: "notosans-b";
-  src: url("../../src/fonts/NotoSansKR-Bold.ttf");
+  src: url("../../src/fonts/NotoSansKR-Bold.otf");
+  unicode-range: U+AC00-D7A3;
 }/*# sourceMappingURL=font.css.map */
