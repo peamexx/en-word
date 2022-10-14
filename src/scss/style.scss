@@ -13,7 +13,7 @@ body {
 }
 
 body {
-  font-family: "notosans r", "gmarket m";
+  font-family: "notosans-r", "merriweather-b";
 }
 
 button {
@@ -21,6 +21,38 @@ button {
 }
 
 // start
-h1 {
-  font-size: 40px;
+main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  .sidebar {
+    width: 10%;
+    height: 100%;
+  }
+  .container {
+    position: relative;
+    width: 90%;
+    height: 100%;
+    background: #c4e0e5;
+  }
+}
+
+.card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: fit-content;
+  padding: 30px;
+  border-radius: 10px;
+  // border: 1px solid #4ca1af;
+  background-color: #fff;
+  box-shadow: 0.3rem 0.3rem 0.6rem #4ca1af, -0.2rem -0.2rem 0.5rem #c4e0e5;
+  p {
+    line-height: 1.5;
+    &.title {
+      font-size: 30px;
+    }
+  }
 }
