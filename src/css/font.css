@@ -5,34 +5,34 @@
 }
 @font-face {
   font-family: "gmarket-m";
-  src: url("/src/fonts/GmarketSansTTFMedium.ttf");
+  src: url("src/fonts/GmarketSansTTFMedium.ttf");
   unicode-range: U+0020-007E;
 }
 @font-face {
   font-family: "gmarket-b";
-  src: url("/src/fonts/GmarketSansTTFBold.ttf");
+  src: url("src/fonts/GmarketSansTTFBold.ttf");
   unicode-range: U+0020-007E;
 }
 @font-face {
   font-family: "merriweather-r";
-  src: url("/src/fonts/Merriweather-Regular.ttf");
+  src: url("src/fonts/Merriweather-Regular.ttf");
   unicode-range: U+0020-007E;
 }
 @font-face {
   font-family: "merriweather-b";
-  src: url("/src/fonts/Merriweather-Bold.ttf");
+  src: url("src/fonts/Merriweather-Bold.ttf");
   unicode-range: U+0020-007E;
 }
 @font-face {
   font-family: "notosans-r";
-  src: url("/src/fonts/NotoSansKR-Regular.ttf");
+  src: url("src/fonts/NotoSansKR-Regular.ttf");
   unicode-range: U+AC00-D7A3;
 }
 @font-face {
   font-family: "notosans-m";
-  src: url("/src/fonts/NotoSansKR-Medium.ttf");
+  src: url("src/fonts/NotoSansKR-Medium.ttf");
 }
 @font-face {
   font-family: "notosans-b";
-  src: url("/src/fonts/NotoSansKR-Bold.ttf");
+  src: url("src/fonts/NotoSansKR-Bold.ttf");
 }/*# sourceMappingURL=font.css.map */
